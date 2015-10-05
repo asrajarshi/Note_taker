@@ -1,0 +1,175 @@
+{
+  "formules": [
+    {
+      "formule": "Linear",
+      "abc": "Motion",
+      "id" : "1","url1": "qp20",
+      "formule1": "Astronomy",
+      "abc1": "Motion","id1" : "40",
+      "url": "qp1"
+    },
+    {
+      "formule": "Constant",
+      "abc": "Motion","url1": "qp20",
+      "formule1": "Astronomy",
+      "abc1": "Motion","id1" : "40",
+      "id" : "2",
+      "url": "qp2"
+    },
+    {
+      "formule": "Projectile",
+      "abc": "Motion","url1": "qp20",
+      "formule1": "Astronomy",
+      "abc1": "Motion","id1" : "40",
+      "id" : "3",
+      "url": "qp3"
+    },
+    {
+      "formule": "Force",
+      "abc": "Motion","url1": "qp20",
+      "formule1": "Astronomy",
+      "abc1": "Motion","id1" : "40",
+      "id" : "4",
+      "url": "qp4"
+    },
+    {
+      "formule": "Work",
+      "abc": "Motion","url1": "qp20",
+      "formule1": "Astronomy",
+      "abc1": "Motion","id1" : "40",
+      "id" : "5",
+      "url": "qp5"
+    },
+    {
+      "formule": "Rotary",
+      "abc": "Motion","url1": "qp20",
+      "formule1": "Astronomy",
+      "abc1": "Motion","id1" : "40",
+      "id" : "6",
+      "url": "qp6"
+    },
+    {
+      "formule": "Harmonic" ,
+      "abc": "Motion",
+      "id" : "7","url1": "qp20",
+      "formule1": "Astronomy",
+      "abc1": "Motion","id1" : "40",
+      "url": "qp7"
+    },
+    {
+      "formule": "Gravity",
+      "abc": "Motion","url1": "qp20",
+      "formule1": "Astronomy",
+      "abc1": "Motion","id1" : "40",
+      "id" : "8",
+      "url": "qp8"
+    },
+    {
+      "formule": "Lateral",
+      "abc": "Motion","url": "qp1","id" : "9","url1": "qp20",
+      "formule1": "Astronomy",
+      "abc1": "Motion","id1" : "40",
+      "url": "qp9"
+    },
+    {
+      "formule": "Sound",
+      "abc": "Motion","id" : "10",
+      "url": "qp1","url1": "qp20",
+      "formule1": "Astronomy",
+      "abc1": "Motion","id1" : "40",
+      "url": "qp10"
+    },
+    {
+      "formule": "Electrostatics",
+      "abc": "Motion",
+      "url": "qp1","id" : "11","url1": "qp20",
+      "formule1": "Astronomy",
+      "abc1": "Motion","id1" : "40",
+      "url": "qp11"
+    },
+    {
+      "formule": "Direct",
+      "abc": "Motion","id" : "12","url1": "qp20",
+      "formule1": "Astronomy",
+      "abc1": "Motion","id1" : "40",
+      "url": "qp12"
+    },
+    {
+      "formule": "Magnetic","id" : "13",
+      "abc": "Motion","url1": "qp20",
+      "formule1": "Astronomy",
+      "abc1": "Motion","id1" : "40",
+      "url": "qp13"
+
+    },
+    {
+      "formule": "Alternatingt","id" : "14","url1": "qp20",
+      "formule1": "Astronomy",
+      "abc1": "Motion","id1" : "40",
+      "abc": "Motion",
+      "url": "qp14"
+    },
+    {
+      "formule": "Thermodynamics",
+      "abc": "Motion","id" : "15","url1": "qp20",
+      "formule1": "Astronomy",
+      "abc1": "Motion","id1" : "40",
+      "url": "qp15"
+    },
+    {
+      "formule": "Hydrogen",
+      "abc": "Motion","id" : "16",
+      "url": "qp16"
+    },
+    {
+      "formule": "Optics",
+      "abc": "Motion","id" : "17","url1": "qp20",
+      "formule1": "Astronomy",
+      "abc1": "Motion","id1" : "40",
+      "url": "qp17"
+    },
+    {
+      "formule": "Moderns","id" : "18",
+      "abc": "Motion","url1": "qp20",
+      "formule1": "Astronomy",
+      "abc1": "Motion","id1" : "40",
+      "url": "qp18"
+    },
+    {
+      "formule": "Hydrostatics","id" : "19",
+      "abc": "Motion","url1": "qp20",
+      "formule1": "Astronomy",
+      "abc1": "Motion","id1" : "40",
+      "url": "qp19"
+    },
+    {
+      "formule": "Astronomy","id" : "20",
+      "abc": "Motion","url1": "qp20",
+      "formule1": "Astronomy",
+      "abc1": "Motion","id1" : "40",
+      "url": "qp20"
+    },
+    {
+      "formule": "Linear",
+      "abc": "Motion","id" : "21","url1": "qp20",
+      "formule1": "Astronomy",
+      "abc1": "Motion","id1" : "40",
+      "url": "qp1"
+    },
+    {
+      "formule": "Constant","id" : "22",
+      "abc": "Motion","url1": "qp20",
+      "formule1": "Astronomy",
+      "abc1": "Motion","id1" : "40",
+      "url": "qp2"
+    },
+    {
+      "formule": "Astronomy",
+      "abc": "Motion","id" : "40",
+      "url1": "qp20",
+      "formule1": "Astronomy",
+      "abc1": "Motion","id1" : "40",
+      "url": "qp20"
+    }
+  ]
+}
